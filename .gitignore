@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+.env
+
+# Hardhat artifacts
+artifacts/
+cache/
+coverage/
+
+# Log files
+*.log
+
+# Mac files
+.DS_Store
+.idea
+package-lock.json
